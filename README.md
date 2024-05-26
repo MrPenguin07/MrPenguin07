@@ -56,9 +56,9 @@
 </div>
 
 ###
+<!---
+<br clear="both">  
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MrPenguin07/MrPenguin07/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/MrPenguin07/MrPenguin07/output/snake.svg" alt="Snake animation" />  
+-->
 ###
