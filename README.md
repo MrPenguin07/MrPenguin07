@@ -4,11 +4,7 @@
   <img height="150" src="https://raw.githubusercontent.com/MrPenguin07/MrPenguin07.github.io/main/assets/images/author/gentoo-profile.png"  />
 </div>
 
-###
-
 <h2 align="center">MrPenguin07's GitHub</h2>
-
-###
 
 <br clear="both">
 <!---
@@ -17,7 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrPenguin07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
 </div>
 -->
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -35,10 +30,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
 </div>
 
-###
 <!---
 <br clear="both">  
 
 <img src="https://raw.githubusercontent.com/MrPenguin07/MrPenguin07/output/snake.svg" alt="Snake animation" />  
 -->
-###
+
